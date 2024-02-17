@@ -1,0 +1,92 @@
+[
+    {
+        "name": "John Wick",
+        "age": 18,
+        "grade": "12th",
+        "major": "Computer Science"
+    },
+    {
+        "name": "Alice Klaush",
+        "age": 17,
+        "grade": "11th",
+        "major": "Biology"
+    },
+    {
+        "name": "Michael Scott",
+        "age": 16,
+        "grade": "10th",
+        "major": "Mathematics"
+    },
+    {
+        "name": "Emily Brown",
+        "age": 18,
+        "grade": "12th",
+        "major": "English Literature"
+    },
+    {
+        "name": "Bruce Lee",
+        "age": 17,
+        "grade": "11th",
+        "major": "Chemistry"
+    },
+    {
+        "name": "Sophia Vergara",
+        "age": 15,
+        "grade": "9th",
+        "major": "History"
+    },
+    {
+        "name": "Ethan Hunt",
+        "age": 16,
+        "grade": "10th",
+        "major": "Physics"
+    },
+    {
+        "name": "Olivia Taylor",
+        "age": 17,
+        "grade": "11th",
+        "major": "Art"
+    },
+    {
+        "name": "Aiden Ross",
+        "age": 21,
+        "grade": "9th",
+        "major": "Computer Science"
+    },
+    {
+        "name": "Isabella Garcia",
+        "age": 16,
+        "grade": "10th",
+        "major": "Psychology"
+    },
+    {
+        "name": "Mason Hernandez",
+        "age": 18,
+        "grade": "12th",
+        "major": "Sociology"
+    },
+    {
+        "name": "Charlotte Martinez",
+        "age": 17,
+        "grade": "11th",
+        "major": "Political Science"
+    },
+    {
+        "name": "Alexander Hamilton",
+        "age": 16,
+        "grade": "10th",
+        "major": "Economics"
+    },
+    {
+        "name": "Abigail Perez",
+        "age": 15,
+        "grade": "9th",
+        "major": "Foreign Languages"
+    },
+    {
+        "name": "William Adams",
+        "age": 17,
+        "grade": "11th",
+        "major": "Geography"
+    }
+]
